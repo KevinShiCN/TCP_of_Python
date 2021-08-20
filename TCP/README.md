@@ -1,0 +1,7 @@
+题目：本项目是基于python实现的远程TCP连接执行shell命令
+
+
+
+其中client是客户端，打包成exe，server是在linux运行命令，
+
+rsyncexp，plantask和backup配合使用，达到定时在另一台服务器备份数据的目的
